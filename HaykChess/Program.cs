@@ -49,7 +49,7 @@ Console.ReadLine();
 Console.WriteLine("Enter the cordinats where does stay your horse");
 int a = int.Parse(Console.ReadLine());
 int b = int.Parse(Console.ReadLine());
-string flag = "string";
+string flag = "right";
 for (int i = 1; i <= 8; i++)
 {
     for (int j = 1; j <= 8; j++)
