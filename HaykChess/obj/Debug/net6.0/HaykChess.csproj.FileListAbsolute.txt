@@ -1,0 +1,15 @@
+C:\Users\haykm\source\repos\HaykChess\HaykChess\bin\Debug\net6.0\HaykChess.exe
+C:\Users\haykm\source\repos\HaykChess\HaykChess\bin\Debug\net6.0\HaykChess.deps.json
+C:\Users\haykm\source\repos\HaykChess\HaykChess\bin\Debug\net6.0\HaykChess.runtimeconfig.json
+C:\Users\haykm\source\repos\HaykChess\HaykChess\bin\Debug\net6.0\HaykChess.dll
+C:\Users\haykm\source\repos\HaykChess\HaykChess\bin\Debug\net6.0\HaykChess.pdb
+C:\Users\haykm\source\repos\HaykChess\HaykChess\obj\Debug\net6.0\HaykChess.csproj.AssemblyReference.cache
+C:\Users\haykm\source\repos\HaykChess\HaykChess\obj\Debug\net6.0\HaykChess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haykm\source\repos\HaykChess\HaykChess\obj\Debug\net6.0\HaykChess.AssemblyInfoInputs.cache
+C:\Users\haykm\source\repos\HaykChess\HaykChess\obj\Debug\net6.0\HaykChess.AssemblyInfo.cs
+C:\Users\haykm\source\repos\HaykChess\HaykChess\obj\Debug\net6.0\HaykChess.csproj.CoreCompileInputs.cache
+C:\Users\haykm\source\repos\HaykChess\HaykChess\obj\Debug\net6.0\HaykChess.dll
+C:\Users\haykm\source\repos\HaykChess\HaykChess\obj\Debug\net6.0\refint\HaykChess.dll
+C:\Users\haykm\source\repos\HaykChess\HaykChess\obj\Debug\net6.0\HaykChess.pdb
+C:\Users\haykm\source\repos\HaykChess\HaykChess\obj\Debug\net6.0\HaykChess.genruntimeconfig.cache
+C:\Users\haykm\source\repos\HaykChess\HaykChess\obj\Debug\net6.0\ref\HaykChess.dll
